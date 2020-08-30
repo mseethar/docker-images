@@ -1,1 +1,1 @@
-docker build -t mseethar/apache-base:0.1 --rm .
+docker build -t mseethar/apache2-base:0.1 --rm .
